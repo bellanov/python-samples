@@ -4,7 +4,7 @@
 # lists can hold values of different data types
 # lists are defined using square brackets [].
 
-# Example of creating a list
+# Example of creating a li
 my_list = [1, 2, 3, 'four', 'five', 6.0]
 # Accessing elements in a list
 first_element = my_list[0]  # Accessing the first element
