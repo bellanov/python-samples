@@ -1,1 +1,6 @@
 pytest
+black
+coverage
+flake8
+isort
+mypy
